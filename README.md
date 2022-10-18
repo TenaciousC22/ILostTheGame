@@ -1,7 +1,7 @@
 # ILostTheGame
 This project is a script that copies a trigger file and audio file saying "I lost the game" and configures a cron job to run every minute. The script randomly plays or doesn't play the audio file, and the probability of it playing can be adjusted. This was written specifically for Ubuntu but should on almost any Linux distro.
 
-Created to prank my colleagues at IIT, who apparently all still play The Game as well as to learn a bit more about bash scripting and its utility.
+Created to prank my colleagues at IIT, who apparently all still play The Game, as well as to learn a bit more about bash scripting and its utility.
 
 ## Usage and Assumptions
 This virus can be installed by running the seed.sh script from anywhere on the victim computer while logged in as the victim.
